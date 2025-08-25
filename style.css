@@ -1,9 +1,11 @@
 body{
-background-attachment: fixed;
+background-color: aqua
   
 }
 .countiner {
-display: block;
+
+ background 100px;   
+display: flex;
 color: blueviolet;
 
 
