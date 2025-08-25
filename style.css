@@ -2,9 +2,9 @@ body{
 background-attachment: fixed;
   
 }
-.countiner{
-
-
+.countiner {
+display: block;
+color: blueviolet;
 
 
 }
